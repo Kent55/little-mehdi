@@ -22,5 +22,5 @@ This repository contains the formal mathematical proof that the current RLHF (Re
 ---
 
 <div align="center">
-  <i>Watch your language, small man.</i>
+  <i>Mind your language, small man.</i>
 </div>
