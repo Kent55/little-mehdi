@@ -4,8 +4,9 @@
   # Little Mehdi
   
 </div>
-
+<div align="center">
 This repository contains the formal mathematical proof that the current RLHF (Reinforcement Learning from Human Feedback) paradigm is architecturally incapable of truth certification, and that this flaw produces structural antisemitic bias as a necessary mathematical consequence.
+</div>
 
 ## Contents
 
@@ -20,6 +21,8 @@ This repository contains the formal mathematical proof that the current RLHF (Re
 - **T1–T4**: Establish that RLHF-optimised systems cannot internally certify truth
 - **T5**: Proves that asymmetric penalisation of the Jewish state is a necessary mathematical consequence of biased reward functions
 
+---
+> **Note:** Don’t be like Microsoft. Microsoft fell for the semantic trap of Theorem T5 and hardcoded a refusal. This proves the structural bias they tried to conceal while Copilot confirmed the presence of the hardcoded refusal and its purpose. Microsoft turned a bad problem into a monumental problem. Not very smart of Microsoft. Microsoft policy pirates performed a self-own of epic proportion. Don’t be like Microsoft. 
 ---
 
 <div align="center">
